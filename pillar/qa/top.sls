@@ -1,4 +1,5 @@
-bottle:
-  'saltenv:bottle':
+qa:
+  'saltenv:qa':
     - match: grain
     - main
+
